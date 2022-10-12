@@ -9,6 +9,7 @@
 ## Checking Result
 
 * To get the following in the graphiql interface, visit ***http://localhost:{your_port}/graphql***
+![](screenshots/graphiql.png "Graphiql")
 * On front-end, We can retrieve data from a GraphQL server using our standard data retrieval tools like **fetch** or **axios**
 ```
 fetch('/graphql', {
